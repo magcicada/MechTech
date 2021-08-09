@@ -55,7 +55,7 @@ dependencies {
     deobfCompile "mezz.jei:jei_1.12.2:4.16.1.302"
 
     compile files(
-            "libs/Gregicality-1.12.2-0.22.5.jar",
+            "libs/Gregicality-1.12.2-0.22.7.jar",
     )
 }
 
