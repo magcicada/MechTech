@@ -32,7 +32,7 @@ public class MTTileEntities {
         }
         id = 6011;
         if(MTConfig.multis.tokamak.enableTokamak) {
-            MetaTileEntities.ADVANCED_FUSION_REACTOR = GregTechAPI.registerMetaTileEntity(id, new MetaTileEntityTokamak(new ResourceLocation(Gregicality.MODID, "advanced_fusion_reactor")));
+            ADVANCED_FUSION_REACTOR = GregTechAPI.registerMetaTileEntity(id, new MetaTileEntityTokamak(new ResourceLocation(Gregicality.MODID, "advanced_fusion_reactor")));
         }
         id = 6012;
     }
