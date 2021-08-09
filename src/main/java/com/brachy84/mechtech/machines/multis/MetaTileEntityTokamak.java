@@ -2,7 +2,7 @@ package com.brachy84.mechtech.machines.multis;
 
 import gregicadditions.item.GAMetaBlocks;
 import gregicadditions.item.fusion.GAFusionCasing;
-import gregicadditions.machines.multi.advance.TileEntityAdvFusionReactor;
+import gregicadditions.machines.multi.advance.MetaTileEntityAdvFusionReactor;
 import gregicadditions.machines.multi.multiblockpart.GAMetaTileEntityEnergyHatch;
 import gregtech.api.metatileentity.MetaTileEntity;
 import gregtech.api.metatileentity.MetaTileEntityHolder;
