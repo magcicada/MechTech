@@ -13,7 +13,7 @@ import gregtech.api.recipes.RecipeMap;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.util.ResourceLocation;
 
-public class MetaTileEntityTokamak extends TileEntityAdvFusionReactor {
+public class MetaTileEntityTokamak extends MetaTileEntityAdvFusionReactor {
 
     private static final MultiblockAbility<?>[] ALLOWED_ABILITIES = {
             MultiblockAbility.IMPORT_FLUIDS,
