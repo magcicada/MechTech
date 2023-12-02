@@ -99,6 +99,9 @@ dependencies {
             'libs/CraftTweaker2-1.12-4.1.20.670.jar',
             'libs/gregtech-1.12.2-2.8.1-beta-dev.jar'
     )
+    runtimeOnly 'curse.maven:groovyscript-687577:4905039'
+    runtimeOnly 'curse.maven:mixin-booter-419286:4835295'
+    runtimeOnly 'curse.maven:the-one-probe-245211:2667280'
 }
 
 processResources {
